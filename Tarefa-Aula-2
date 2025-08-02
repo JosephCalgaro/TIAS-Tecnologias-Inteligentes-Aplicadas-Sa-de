@@ -1,0 +1,44 @@
+# Trabalhos de Conclusão de Curso – Tecnologia Aplicada à Saúde/Medicina
+
+**RECOMENDAÇÃO**
+
+| Título                                                        | Nome do Aluno            | Resumo                                                                                     |
+|---------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------|
+| Sistema de Recomendação Para Controle da Diabetes             | Rodrigo Rath             | Sistema de informação com mineração de dados para recomendações de controle diário da diabetes. |
+/-----------------/
+| Software Para Gestão Da Secretaria Da Associação De Diabéticos | Vinícius Moura da Silva  | Software para organização e personalização do atendimento a diabéticos, com alertas e relatórios. |
+
+**PREDIÇÃO E PREVISÃO**
+
+| Título                                                        | Nome do Aluno            | Resumo                                                                                     |
+|---------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------|
+| Machine Learning: Uma Abordagem Para Classificação Da         | Giovanni Buzin Righi     | Aplicação de Random Forest para prever e classificar genes expressos em estágios tumorais. |
+| Expressão Gênica Em Diferentes Estágios Tumorais              |                          |                                                                                            |
+/-----------------/
+| Pré-Processamento De Dados Para Análise De Séries Temporais Na| Adriano De Almedia Corrêa| Técnicas de previsão com ARIMA e Prophet aplicáveis a contextos médicos (ex: controle glicêmico). |
+| Previsão De Valores De Criptomoedas                            |                          |                                                                                            |
+
+**DIAGNÓSTICO**
+
+| Título                                                        | Nome do Aluno            | Resumo                                                                                     |
+|---------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------|
+| Análise De Sequenciamento Genético Em Proband Para Identificar| Jefereson da Silva Grigolo| Análise de mutações no câncer colorretal para diagnóstico genético personalizado.          |
+| As Mutações Genéticas E Divergências Encontradas              |                          |                                                                                            |
+/-----------------/
+| Algoritmo De Análise De Falhas Em Sequências De Bases         | Tanira Campos Maidana    | Diagnóstico genético por meio da detecção de falhas em sequências de DNA e proposta de correções. |
+| Nitrogenadas E Sugestão De Correção                            |                          |                                                                                            |
+
+**MONITORAMENTO E SENSORAMENTO**
+
+| Título                                                        | Nome do Aluno            | Resumo                                                                                     |
+|---------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------|
+| Desenvolvimento De Um Middleware Para Tratamento De Dados     | Gustavo Fão Valvassori   | Middleware para coleta e padronização de dados de EEG, com aplicação no monitoramento cerebral pessoal. |
+| Coletados Por Sensores De Eletroencefalograma Pessoais        |                          |                                                                                            |
+/-----------------/
+| Sistema De Atendimento De Urgência E Emergência Em Saúde      | Rafael Ilha              | Sistema móvel com geolocalização para resposta mais rápida em emergências médicas.          |
+| Utilizando Geolocalização                                      |                          |                                                                                            |
+/-----------------/
+| Vigilante: Aplicativo De Monitoramento De Localização         | Antonio Jair da Silva    | App de rastreamento com aplicação na vigilância e segurança de pacientes vulneráveis.      |
+/-----------------/
+| Software Para Gestão Da Secretaria Da Associação De Diabéticos | Vinícius Moura da Silva  | Aplicação também se encaixa no monitoramento ao permitir acompanhamento contínuo da saúde de pacientes. |
+| De Santa Maria                                                |                          |                                                                                            |
